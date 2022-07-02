@@ -1,0 +1,51 @@
+Body {
+    font-family: 'Times New Roman';
+    background-color: rgb(251, 255, 255);
+    font-weight: bold;
+}
+
+.container {
+    margin-left: 600px;
+    margin-right: 500px;
+    margin-top: 90px;
+    padding: 200px;
+    background-color: rgb(194, 227, 238);
+}
+
+button {
+    background-color: hsl(140, 14%, 4%);
+    width: 100%;
+    color: white;
+    padding: 15px;
+    margin: 8px 0px;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+    font-family: Arial;
+    font-size: large;
+
+}
+input[type=text], input[type=password] {   
+
+    /* background-color: hsla(120, 4%, 5%, 0);
+    width: 100%;
+    color: rgb(238, 25, 25);
+    padding: 15px;
+    margin: 8px 0px;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+    font-family: Arial;
+    font-size: large; */
+
+    width: 100%;   
+    margin: 8px 0;  
+    padding: 12px 20px;  
+    display: inline-block;   
+    background-color: rgba(61, 60, 60, 0.26);;
+    box-sizing: border-box;  
+    font-size: large; 
+    color: rgb(7, 6, 6);
+    border: none;
+    
+}  
